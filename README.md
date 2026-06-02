@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;LLMs+%7C+MLOps+%7C+Agentic+AI+%7C+Python;Building+Production-Grade+Intelligent+Systems;3%2B+Years+of+Real-World+AI%2FML+Experience" alt="Typing SVG" />
 </a>
-
+h
 <br/>
 
 <!-- SOCIAL MEDIA LINKS -->
@@ -74,6 +74,8 @@ I'm a results-driven **AI Engineer | ML Engineer | Data Scientist** with **3+ ye
             | [**Gemini AI Apps**](https://github.com/Avvv19/Building-real-world-AI-applicatins-with-Gemini) | Production-ready applications built with Google Gemini API | GenAI / LLMs | Python, Gemini API |
             | [**GenAI Clinical Notes**](https://github.com/Avvv19/genai-clinical-notes) | LLM-powered document generation with structured output & API integration | LLMs / NLP | Python, OpenAI, LangChain |
             | [**Iris Flower Classification**](https://github.com/Avvv19/Iris-Flower-Classification-Using-Machine-Learning) | Classic ML benchmark — multiple classifiers, EDA & model comparison | ML / Data Science | Python, Scikit-Learn |
+            | [**Local AI Agent Workflow**](https://github.com/Avvv19/local-ai-agent-workflow) | Autonomous document intelligence pipeline — local agentic AI with classification, extraction & routing | Agentic AI / NLP | Python, FastAPI, LangChain, Docker |
+            | [**RAG Search & Answer Evaluation Assistant**](https://github.com/Avvv19/rag-search-answer-evaluation-assistant) | Enterprise RAG platform with semantic search, grounded answers & hallucination detection | GenAI / NLP | Python, LangChain, LLMs |
 
             ---
 
