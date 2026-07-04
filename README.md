@@ -31,7 +31,7 @@
 
 AI Systems Engineer with 3+ years delivering production LLM systems to clients across healthcare and enterprise operations. I work forward-deployed — embedded with teams, turning ambiguous asks into working prototypes within days. Current focus: multi-agent pipelines, RAG evaluation frameworks, and deterministic AI governance for compliance-critical industries.
 
-- **Building now:** [Signal Forge AI](https://github.com/Avvv19/signal-forge-ai) — deterministic AI action governance where every decision is scored, every verdict hashed, every route fully auditable. Zero LLM tokens on the critical path. Targets insurance, healthcare, banking, and compliance use cases
+- **Building now:** Signal Forge AI *(private)* — deterministic AI action governance where every decision is scored, every verdict hashed, every route fully auditable. Zero LLM tokens on the critical path. Targets insurance, healthcare, banking, and compliance use cases
 - **Stack:** Python · LangChain · LangGraph · LangSmith · FastAPI · AWS · GCP · Docker · Kubernetes · ChromaDB · Qdrant · Pinecone · PostgreSQL · Terraform
 - **Certs:** AWS Certified Machine Learning Engineer Associate &nbsp;·&nbsp; HashiCorp Terraform Associate *(in progress)*
 - **Open to:** Forward-Deployed AI Engineer · Applied AI Engineer · AI Systems Engineer · MLOps Engineer roles
