@@ -122,6 +122,8 @@ AI Systems Engineer with 3+ years delivering production LLM systems to clients a
 <td width="50%" valign="top">
 
 ### [RAG Search & Answer Evaluation](https://github.com/Avvv19/rag-search-answer-evaluation-assistant)
+[![CI](https://github.com/Avvv19/rag-search-answer-evaluation-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/Avvv19/rag-search-answer-evaluation-assistant/actions/workflows/ci.yml)
+
 Enterprise RAG platform with sentence-level chunking, ChromaDB vector retrieval, and LLM-as-Judge scoring across three dimensions — relevance, coverage, and unsupported-risk. Ships with a fixed golden evaluation set of 25 Q&A pairs for regression testing before every release.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -133,7 +135,9 @@ Enterprise RAG platform with sentence-level chunking, ChromaDB vector retrieval,
 <td width="50%" valign="top">
 
 ### [Local AI Agent Workflow](https://github.com/Avvv19/local-ai-agent-workflow)
-Multi-agent document intelligence pipeline — Pydantic validation at every step, exponential backoff, SQLite audit logging, LangSmith observability, human-review checkpoints, and a full GitHub Actions CI pipeline (ruff lint + pytest coverage + Docker build).
+[![CI](https://github.com/Avvv19/local-ai-agent-workflow/actions/workflows/ci.yml/badge.svg)](https://github.com/Avvv19/local-ai-agent-workflow/actions/workflows/ci.yml)
+
+Multi-agent document intelligence pipeline — Pydantic validation at every step, exponential backoff, SQLite audit logging, LangSmith observability, human-review checkpoints, and a full GitHub Actions CI pipeline (ruff lint + mypy + pytest coverage + Docker build).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-FF4B4B?style=flat-square)
