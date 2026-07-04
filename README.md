@@ -1,100 +1,177 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  HEADER BANNER — animated gradient wave                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Venkata%20Vivek%20Varma%20Alluru&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Forward-Deployed%20AI%20%E2%80%A2%20LLM%20Pipelines%20%E2%80%A2%20RAG%20%E2%80%A2%20Evals&descAlignY=58&descSize=15&descColor=b0c4de"/>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Avvv19&label=Profile%20Views&color=0e75b6&style=flat" alt="Avvv19" />
+<!-- PROFILE VIEWS + SOCIALS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avvv19&color=0078d7&style=flat-square&label=Profile+Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/venkatavivekvarmaalluru/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:a.v.vivekvarma@natzen.shop">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20ML%20Engineer-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
-<!-- ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" />
-<h1>Hi, I'm Venkata Vivek Varma Alluru</h1>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;LLMs+%7C+MLOps+%7C+Agentic+AI+%7C+Python;Building+Production-Grade+Intelligent+Systems;3%2B+Years+of+Real-World+AI%2FML+Experience" alt="Typing SVG" />
-</a>
-h
+<!-- TYPING ANIMATION — shows role + specialisation in rotation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=780&lines=Building+production+AI+systems+that+ship;Multi-agent+pipelines+%7C+RAG+%7C+Evals+Engineering;LangChain+%C2%B7+LangSmith+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+Docker;Forward-Deployed+AI+%E2%80%94+client-embedded%2C+prototype-first" alt="Typing SVG"/>
+</p>
+
 <br/>
+---
 
-<!-- SOCIAL MEDIA LINKS -->
-<a href="https://www.linkedin.com/in/venkatavivekvarmaalluru/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@a.v.vivekvarma" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://github.com/Avvv19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+## About
 
-</div>
+AI Systems Engineer with 3+ years delivering production LLM systems to clients across healthcare and enterprise operations. I work forward-deployed — embedded with teams, turning ambiguous asks into working prototypes within days. Current focus: multi-agent pipelines, RAG evaluation frameworks, and deterministic AI governance for compliance-critical industries.
+
+- **Building now:** [Signal Forge AI](https://github.com/Avvv19/signal-forge-ai) — deterministic AI action governance where every decision is scored, every verdict hashed, every route fully auditable. Zero LLM tokens on the critical path. Targets insurance, healthcare, banking, and compliance use cases
+- **Stack:** Python · LangChain · LangSmith · FastAPI · AWS Lambda · GCP BigQuery · Docker · ChromaDB · PostgreSQL · Terraform
+- **Certs:** AWS Certified Machine Learning Engineer Associate &nbsp;·&nbsp; HashiCorp Terraform Associate *(in progress)*
+- **Open to:** Forward-Deployed AI Engineer · Applied AI Engineer · AI Systems Engineer · MLOps Engineer roles
+
+<br/>
 
 ---
 
-<!-- ABOUT ME -->
-## 🚀 About Me
+## Tech Stack
 
-I'm a results-driven **AI Engineer | ML Engineer | Data Scientist** with **3+ years of experience** designing and deploying production-grade intelligent systems. I specialize in transforming complex data into real-world AI solutions — from autonomous multi-agent pipelines to scalable MLOps infrastructure and advanced NLP systems.
+**AI / LLM / Agents**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-FF4B4B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+</p>
 
-- **Agentic AI & LLMs** — Built 100+ agent autonomous systems using LangChain, OpenAI, Groq, and HuggingFace
-- **Machine Learning & Deep Learning** — End-to-end model development, training, evaluation, and deployment across diverse domains
-- - **Data Science** — Statistical modeling, feature engineering, EDA, and predictive analytics at scale
-  - - **MLOps & Cloud** — Production ML pipelines on AWS, GCP, and Azure with Docker, FastAPI, and CI/CD
-    - - **Full-Stack AI Applications** — From Jupyter notebooks to deployed REST APIs and interactive dashboards
-      - - Writing about AI & Data Science on [Medium](https://medium.com/@a.v.vivekvarma) — sharing real lessons from the field
-        - - Former team captain who led government-scale public events — leadership and ownership are in my DNA
-          -            
-            - ---
+**RAG / Vector / Evals**
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6B6B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
+</p>
 
-            ## Tech Stack
+**Backend / APIs / Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
-            **Languages & Data**
+**Cloud / Infra / CI**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruff-D7FF64?style=flat-square&logoColor=black"/>
+</p>
 
-            ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<br/>
 
-            **AI / ML / LLMs**
+---
 
-            ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-00B4D8?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+## Featured Projects
 
-            **Cloud & MLOps**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-            ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+### [RAG Search & Answer Evaluation](https://github.com/Avvv19/rag-search-answer-evaluation-assistant)
+Enterprise RAG platform with sentence-level chunking, ChromaDB vector retrieval, and LLM-as-Judge scoring across three dimensions — relevance, coverage, and unsupported-risk. Ships with a fixed golden evaluation set of 25 Q&A pairs for regression testing before every release.
 
-            **Data Engineering & Analysis**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-1A1A2E?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-            ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8B5CF6?style=for-the-badge)
+</td>
+<td width="50%" valign="top">
 
-            ---
+### [Local AI Agent Workflow](https://github.com/Avvv19/local-ai-agent-workflow)
+Multi-agent document intelligence pipeline — Pydantic validation at every step, exponential backoff, SQLite audit logging, LangSmith observability, human-review checkpoints, and a full GitHub Actions CI pipeline (ruff lint + pytest coverage + Docker build).
 
-            ## Featured Projects
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-FF4B4B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-            | Project | Description | Domain | Tech |
-            |---------|-------------|--------|------|
-            | [**RuralScribe OS**](https://github.com/Avvv19/ruralscribe-os) | 100+ Agent Autonomous Operating System — large-scale agentic AI orchestration | Agentic AI | Python, LangChain, LLMs |
-            | [**HealthMLOpsX**](https://github.com/Avvv19/HealthMLOpsX) | Hybrid-cloud MLOps platform with model versioning, monitoring & CI/CD | MLOps / Cloud | Python, TF, FastAPI, Docker |
-            | [**JARVIS AI Assistant**](https://github.com/Avvv19/JARVIS-A-Powerful-AI-Virtual-Assistant-Using-Natural-Language-Processing-Python) | Voice-activated AI assistant with NLP, task automation & system control | NLP / AI | Python, TensorFlow, NLTK |
-            | [**Mental Health Chatbot**](https://github.com/Avvv19/Mental-Health-Chatbot-Using-GEN-AI) | Conversational AI with RAG pipeline and semantic search | GenAI / NLP | Python, LangChain, HuggingFace |
-            | [**Disease Prediction**](https://github.com/Avvv19/Disease-Prediction-with-Medical-Recommendation-) | Multi-model ensemble for classification with personalized recommendations | ML / Data Science | Python, Scikit-Learn, Streamlit |
-            | [**Gemini AI Apps**](https://github.com/Avvv19/Building-real-world-AI-applicatins-with-Gemini) | Production-ready applications built with Google Gemini API | GenAI / LLMs | Python, Gemini API |
-            | [**GenAI Clinical Notes**](https://github.com/Avvv19/genai-clinical-notes) | LLM-powered document generation with structured output & API integration | LLMs / NLP | Python, OpenAI, LangChain |
-            | [**Iris Flower Classification**](https://github.com/Avvv19/Iris-Flower-Classification-Using-Machine-Learning) | Classic ML benchmark — multiple classifiers, EDA & model comparison | ML / Data Science | Python, Scikit-Learn |
-            | [**Local AI Agent Workflow**](https://github.com/Avvv19/local-ai-agent-workflow) | Autonomous document intelligence pipeline — local agentic AI with classification, extraction & routing | Agentic AI / NLP | Python, FastAPI, LangChain, Docker |
-            | [**RAG Search & Answer Evaluation Assistant**](https://github.com/Avvv19/rag-search-answer-evaluation-assistant) | Enterprise RAG platform with semantic search, grounded answers & hallucination detection | GenAI / NLP | Python, LangChain, LLMs |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-            ---
+### [Signal Forge AI](https://github.com/Avvv19/signal-forge-ai) *(going public)*
+Deterministic AI action governance — every decision scored, every verdict hashed, every route fully auditable. Built for compliance-critical industries where zero LLM ambiguity is required. Targets insurance, healthcare, cybersecurity, and banking use cases.
 
-            ## GitHub Stats
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Compliance](https://img.shields.io/badge/-Compliance%20Critical-DC244C?style=flat-square)
+![Audit](https://img.shields.io/badge/-Audit%20Trail-0078d7?style=flat-square)
 
-            [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avvv19&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Avvv19) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avvv19&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Avvv19)
+</td>
+<td width="50%" valign="top">
 
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avvv19&theme=tokyonight&hide_border=true)](https://github.com/Avvv19)
+### [RestartOS Agentic Line Recovery](https://github.com/Avvv19/restartos-agentic-line-recovery)
+Agentic line-recovery system for manufacturing — cross-family LLM verifier (NVIDIA NIM + Groq), Qdrant RAG, Postgres incident memory, OT/IT boundary enforcement, and full audit trail. Deployable end-to-end with `docker compose up`.
 
-            ---
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-            ## GitHub Trophies
+</td>
+</tr>
+</table>
 
-            [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Avvv19&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Avvv19)
+<br/>
+---
 
-            ---
+## GitHub Analytics
 
-            ## Let's Connect!
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Avvv19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  &nbsp;&nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avvv19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+</p>
 
-            I'm always open to collaborating on **AI/ML projects**, **data science challenges**, **LLM applications**, or **MLOps infrastructure**. Whether you're building a recommendation engine, an NLP pipeline, a multi-agent system, or a scalable data platform — let's build something great together!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Avvv19&theme=tokyonight&hide_border=true&background=0d1117&stroke=30A3DC&ring=30A3DC&fire=FF4500&currStreakLabel=30A3DC" alt="GitHub Streak"/>
+</p>
 
-            > *"The best AI system is the one that solves real problems reliably at scale."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avvv19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+---
+
+## Contribution Activity
+
+<!-- Snake animation — auto-generated by GitHub Actions workflow (see .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Avvv19/Avvv19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Avvv19/Avvv19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Avvv19/Avvv19/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer"/>
