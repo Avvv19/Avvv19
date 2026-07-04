@@ -145,6 +145,17 @@ Multi-agent document intelligence pipeline — Pydantic validation at every step
 <tr>
 <td width="50%" valign="top">
 
+### [Signal Forge AI](https://github.com/Avvv19/signal-forge-ai) *(going public)*
+Deterministic AI action governance — every decision scored, every verdict hashed, every route fully auditable. Zero LLM tokens on the critical path. Built for compliance-critical industries where zero ambiguity is required: insurance, healthcare, banking, and cybersecurity.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### [RestartOS Agentic Line Recovery](https://github.com/Avvv19/restartos-agentic-line-recovery)
 Agentic line-recovery system for manufacturing — cross-family LLM verifier (NVIDIA NIM + Groq), Qdrant RAG, Postgres incident memory, OT/IT boundary enforcement, and full audit trail. Deployable end-to-end with `docker compose up`.
 
@@ -152,17 +163,6 @@ Agentic line-recovery system for manufacturing — cross-family LLM verifier (NV
 ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [RuralScribe OS](https://github.com/Avvv19/ruralscribe-os)
-AI-powered clinical documentation system for rural healthcare — real-time transcription, SOAP note generation, ICD-10 coding assistance, and offline-first architecture for low-connectivity environments. Reduces physician documentation time by 70%.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
 </tr>
