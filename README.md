@@ -2,7 +2,7 @@
 
 Applied AI Engineer building client-facing AI prototypes and pilots with Python, SQL, structured outputs, retrieval, evaluation, validation, observability, and human review.
 
-My path into applied AI started with operations, reporting, data processing, and workflow automation. I moved into professional LLM and applied-AI work in 2025, carrying forward the same engineering habits: understand the workflow, define the failure modes, keep outputs reviewable, and use the simplest approach that meets the requirement.
+My career began in January 2020 with operations, reporting, data processing, and workflow automation. I moved into professional LLM and applied-AI work in 2025, carrying forward the same engineering habits: understand the workflow, define the failure modes, keep outputs reviewable, and use the simplest approach that meets the requirement.
 
 ## Current focus
 
@@ -18,7 +18,7 @@ One recurring design principle: a simpler model is often the right model. In pro
 
 - **Applied AI Engineer, Airen Technologies LLC** - August 2025 to present. Remote, United States. Client-facing work across two technical workstreams, classified conservatively as prototypes or pilots.
 - **Graduate Research Assistant, New England College** - August 2024 to May 2025. Supported technical coursework, SQL, data structures, algorithms, analytics, and related academic work under faculty direction.
-- **Data and Automation Associate, Airen Technologies LLC** - January 2021 to November 2023. Automated eight recurring reporting workflows across four client accounts while retaining human review for exceptions.
+- **Data Engineer, Airen Technologies LLC** - January 2020 to November 2023. Automated eight recurring reporting workflows across four client accounts while retaining human review for exceptions.
 
 ## Selected personal projects
 
