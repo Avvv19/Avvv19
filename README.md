@@ -2,7 +2,7 @@
 
 Applied AI Engineer building client-facing AI prototypes and pilots with Python, SQL, structured outputs, retrieval, evaluation, validation, observability, and human review.
 
-My path into applied AI started with operations, reporting, data processing, and workflow automation. I moved into professional LLM and applied-AI work in 2025, carrying forward the same engineering habits: understand the workflow, define the failure modes, keep outputs reviewable, and use the simplest approach that meets the requirement.
+My career began in January 2020 with operations, reporting, data processing, and workflow automation. I moved into professional LLM and applied-AI work in 2025, carrying forward the same engineering habits: understand the workflow, define the failure modes, keep outputs reviewable, and use the simplest approach that meets the requirement.
 
 ## Current focus
 
