@@ -1,13 +1,13 @@
 # Venkata Vivek Varma Alluru
 
-Applied AI Engineer building client-facing AI prototypes and pilots with Python, SQL, structured outputs, retrieval, evaluation, validation, observability, and human review.
+Applied AI Engineer building client-facing AI prototypes and pilots with Python, SQL, structured outputs, evaluation, validation, observability, and human review. Retrieval work is shown in personal evaluation prototypes unless explicitly labeled otherwise.
 
 My career began in January 2020 with operations, reporting, data processing, and workflow automation. I moved into professional LLM and applied-AI work in 2025, carrying forward the same engineering habits: understand the workflow, define the failure modes, keep outputs reviewable, and use the simplest approach that meets the requirement.
 
 ## Current focus
 
 - Document intelligence and language-variable extraction
-- Retrieval-augmented generation and evaluation harnesses
+- Retrieval-augmented generation and evaluation harnesses in personal prototypes
 - Typed APIs, validation, abstention, and human-review routing
 - Client discovery, workflow analysis, and prototype delivery
 - Operational logs, traceability, and evidence-aware system design
@@ -16,7 +16,7 @@ One recurring design principle: a simpler model is often the right model. In pro
 
 ## Experience snapshot
 
-- **Applied AI Engineer, Airen Technologies LLC** - August 2025 to present. Remote, United States. Client-facing work across two technical workstreams, classified conservatively as prototypes or pilots.
+- **Applied AI Engineer, Airen Technologies LLC** - August 2025 to present. Remote, United States. Client-facing work across **two technical workstreams**, classified conservatively as prototypes or pilots; work includes structured extraction, evaluation, validation, observability, and review gates.
 - **Graduate Research Assistant, New England College** - August 2024 to May 2025. Supported technical coursework, SQL, data structures, algorithms, analytics, and related academic work under faculty direction.
 - **Data Engineer, Airen Technologies LLC** - January 2020 to November 2023. Automated eight recurring reporting workflows across four client accounts while retaining human review for exceptions.
 
@@ -40,6 +40,10 @@ Signal Forge is a private, AI-assisted personal prototype. I use it to explore d
 **Professional exposure:** FastAPI, Pydantic, S3, IAM, BigQuery, Docker, GitHub Actions, RAG, LLM application development, and observability.
 
 **Personal-project implementation:** FastAPI, Pydantic, pytest, Docker, GitHub Actions, FAISS, ChromaDB, Qdrant, BM25, TypeScript, React, Supabase, PostgreSQL, Terraform, Helm, Kubernetes manifests, Prometheus, Grafana, and Sentry.
+
+## Verified certifications
+
+No completed certification is published here until the issuer-provided credential URL, exact name, and dates are available. AWS Certified Machine Learning Engineer – Associate, Databricks Certified Data Engineer Associate, and HackerRank SQL Advanced remain pending verification; no credential links are being invented.
 
 ## Education
 
