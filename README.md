@@ -41,6 +41,10 @@ Signal Forge is a private, AI-assisted personal prototype. I use it to explore d
 
 **Personal-project implementation:** FastAPI, Pydantic, pytest, Docker, GitHub Actions, FAISS, ChromaDB, Qdrant, BM25, TypeScript, React, Supabase, PostgreSQL, Terraform, Helm, Kubernetes manifests, Prometheus, Grafana, and Sentry.
 
+## Education
+
+Master of Science in Data Science and Analytics, New England College - January 2024 to June 2025, GPA 3.96.
+
 ## Boundaries
 
 The repositories above are personal prototypes, simulations, learning demonstrations, or design concepts. They do not represent paid client work, commercial adoption, external users, continuous production traffic, formal compliance certification, or independent operation of production infrastructure unless a repository explicitly provides reproducible evidence.
