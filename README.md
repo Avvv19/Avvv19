@@ -18,7 +18,7 @@ One recurring design principle: a simpler model is often the right model. In pro
 
 - **Applied AI Engineer, Airen Technologies LLC** - August 2025 to present. Remote, United States. Client-facing work across two technical workstreams, classified conservatively as prototypes or pilots.
 - **Graduate Research Assistant, New England College** - August 2024 to May 2025. Supported technical coursework, SQL, data structures, algorithms, analytics, and related academic work under faculty direction.
-- **Data and Automation Associate, Airen Technologies LLC** - January 2021 to November 2023. Automated eight recurring reporting workflows across four client accounts while retaining human review for exceptions.
+- **Data and Automation Associate, Airen Technologies LLC** - January 2020 to November 2023. Automated eight recurring reporting workflows across four client accounts while retaining human review for exceptions.
 
 ## Selected personal projects
 
