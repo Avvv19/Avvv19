@@ -58,10 +58,10 @@ I progressed from four years of production Data Engineering into graduate AI res
 
 ## Certifications
 
-- **AWS Certified Machine Learning Engineer – Associate** · earned July 2026
+- [**AWS Certified Machine Learning Engineer – Associate**](https://www.credly.com/badges/30e24ab8-12c0-4e9e-b21d-e74029cf49ca) · earned July 2026
 - **Databricks Certified Data Engineer Professional**
 
-Public issuer verification links will be added when the credential URLs are available; no URL or credential identifier is inferred here.
+The Databricks public issuer verification link will be added when available; no URL or credential identifier is inferred here.
 
 ## Education
 
